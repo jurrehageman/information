@@ -1,6 +1,10 @@
 # Informatie posterdag
 
+---
+
 ## Introductie
+
+---
 
 Hierbij de info mbt de posterdag.
 
@@ -45,6 +49,8 @@ $abc = \frac{x^3 - y^3}{x-1}$
 123 a  
 123 b  
 123 c  
+
+---
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
