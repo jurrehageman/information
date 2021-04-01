@@ -37,7 +37,14 @@ $\lambda = \frac{x}{y} \cdot \sum x_{i-j}$
 $abc = \frac{x^3 - y^3}{x-1}$
 
 
+|kolom1|kolom2             | 12|
+|------|:-----------------:|----:|
+|woord1|woord2 dit past ook|14444444|
+|hoi|bla|12233|
 
+123 a
+123 b
+123 c
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
