@@ -23,3 +23,31 @@ Hierbij een plaatje:
 
 
 Dit is een extra zin.
+
+
+Dit is **vet**.
+Kan ook met html. Dit is <b>vet</b>.
+
+<FONT COLOR="#FF00FF" >paars</FONT>
+
+
+$\lambda = \frac{x}{y} \cdot \sum x_{i-j}$
+
+
+$abc = \frac{x^3 - y^3}{x-1}$
+
+
+
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+    
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
