@@ -42,9 +42,9 @@ $abc = \frac{x^3 - y^3}{x-1}$
 |woord1|woord2 dit past ook|14444444|
 |hoi|bla|12233|
 
-123 a
-123 b
-123 c
+123 a  
+123 b  
+123 c  
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
